@@ -16,13 +16,13 @@ Linux overturned much of what I thought I knew. I had been
 preaching the Unix gospel of small tools, rapid prototyping and 
 evolutionary programming for years. But I also believed there was a
 certain critical complexity above which a more centralized, a priori
-approach was required. I believed that the most important so=ware
+approach was required. I believed that the most important sofware
 (operating systems and really large tools like the Emacs programming
-editor) needed to be built like cathedrals, carefully cra=ed by
+editor) needed to be built like cathedrals, carefully caried by
 individual wizards or small bands of mages working in splendid
 isolation, with no beta to be released before its time.
 
-Linus Torvalds’s style of development – release early and o=en,
+Linus Torvalds’s style of development – release early and open,
 delegate everything you can, be open to the point of promiscuity
 – came as a surprise. No quiet, reverent cathedral-building here –
 rather, the Linux community seemed to resemble a great babbling
@@ -48,5 +48,5 @@ about elective open-source development. Not all of these are
 things I first learned in the Linux world, but we’ll see how the Linux
 world gives them particular point. If I’m correct, they’ll help you understand
 exactly what it is that makes the Linux community such a
-fountain of good so=ware – and, perhaps, they will help you become
+fountain of good software – and, perhaps, they will help you become
 more productive yourself.
